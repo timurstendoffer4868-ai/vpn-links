@@ -1,0 +1,7 @@
+# profile-title: VPN LINKS
+# User: 8015218517
+# Days: 1
+# Created: 2026-07-17 10:05
+
+vless://test1@example.com:443?security=reality
+vless://test2@example.com:443?security=reality
